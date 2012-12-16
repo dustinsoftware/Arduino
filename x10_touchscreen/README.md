@@ -1,4 +1,5 @@
-! X10 Touchscreen
+X10 Touchscreen
+===============
 
 Requires Arduino 1.0.3 to build.
 
